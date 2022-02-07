@@ -29,6 +29,7 @@ Big-O gösterimini yazınız.
 
 ```
 O(n*logn)
+
 ```
 
 
